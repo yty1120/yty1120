@@ -1,16 +1,16 @@
-## Hi there 👋
+20252201 윤태영 
 
-<!--
-**yty1120/yty1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+자기 이력 홈페이지 만들기 과제 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+메인 사이트 html - 메인 홈페이지  
+career html 경력
+Certificate html 자격증
+Desired position html 희망 직무
+education.html 학력
+projects.html 프로젝트
+
+background 직접 찍은 학교 사진 활용
+
+
